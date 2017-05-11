@@ -1,0 +1,1 @@
+# openmp-small-graph-project
