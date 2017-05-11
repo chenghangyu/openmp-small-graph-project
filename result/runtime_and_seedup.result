@@ -1,0 +1,14 @@
+ avg runting time (30times):
+sssp_cpu: 4.94957e-05
+apsp_cpu: 0.00059367
+  cc_cpu: 0.0185531
+  bc_cpu: 0.0282437
+sssp_openmp: 0.00104941
+apsp_openmp: 0.00953743
+  cc_openmp: 0.0105255
+  bc_openmp: 0.0147266
+avg speedup:
+sssp_speedup: 0.0471654
+apsp_speedup: 0.0622463
+cc_speedup: 1.76267
+bc_speedup: 1.91787

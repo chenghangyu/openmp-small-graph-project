@@ -1,0 +1,6 @@
+data files located in dataset folder
+results files located in result folder
+
+
+run:
+use "make", and then input"./smallgraph_openmp_test ./dataset/begin.bin ./dataset/adjacent.bin ./dataset/weight.bin thread-number" and replace tread-number with the number you need.
